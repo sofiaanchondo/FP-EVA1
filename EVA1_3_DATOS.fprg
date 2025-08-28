@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1_3_DATOS"/>
+        <attribute name="authors" value="mikas"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-27 03:30:19 p. m."/>
+        <attribute name="created" value="bWlrYXM7TEFQVE9QLUlBU0k1RDMwOzIwMjUtMDgtMjc7MDM6MjM6MTIgcC4gbS47MzAyNQ=="/>
+        <attribute name="edited" value="bWlrYXM7TEFQVE9QLUlBU0k1RDMwOzIwMjUtMDgtMjc7MDM6MzA6MTkgcC4gbS47MTszMTM4"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;NOMBRE DEL ESTUDIANTE: &quot;" newline="False"/>
+            <output expression="&quot;SOFIA ANCHONDO RODRIGUEZ&quot;" newline="True"/>
+            <output expression="&quot;N&#218;MERO DE CONTROL: &quot;" newline="False"/>
+            <output expression="&quot;25550360&quot;" newline="True"/>
+            <output expression="&quot;EDAD: &quot;" newline="False"/>
+            <output expression="&quot;17&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

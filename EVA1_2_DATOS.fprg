@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1_2_DATOS"/>
+        <attribute name="authors" value="mikas"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-27 03:01:43 p. m."/>
+        <attribute name="created" value="bWlrYXM7TEFQVE9QLUlBU0k1RDMwOzIwMjUtMDgtMjc7MDM6MDA6MDIgcC4gbS47MzAxOQ=="/>
+        <attribute name="edited" value="bWlrYXM7TEFQVE9QLUlBU0k1RDMwOzIwMjUtMDgtMjc7MDM6MDE6NDMgcC4gbS47MTszMTMz"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;HOLA MUNDO&quot;" newline="True"/>
+            <output expression="&quot;FUNADAMENTOS DE PROGRAMACION&quot;" newline="True"/>
+            <output expression="1000" newline="True"/>
+            <output expression="52.3" newline="True"/>
+            <output expression="True" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
